@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+renv/
+*.csv
+*.sas7bdat
+*.xls
+*.xlsx
+*.html
+*.pdf
